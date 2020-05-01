@@ -1,0 +1,136 @@
+Voxelart Store
+
+▼  IR RÁPIDAMENTE A LOS DIFERENTES APARTADOS ▼ ( Marcas de Tiempo )
+00:00:01 - Introducción
+00:05:50 - Descargar Lista de Comprobación
+
+1- DOMINIO Y ALOJAMIENTO
+00:15:57 - Dominio y Alojamiento
+00:28:10 - Obtener Descuento Hosting
+00:36:42 - Verificar Dominio
+00:37:38 - Abrir Tickets Soporte Técnico
+
+2- INSTALAR WORDPRESS
+00:38:31 - Instalar Wordpress
+00:39:46 - Instalar Certificado SSL
+00:46:56 - Añadir un Chat en Vivo a la Web
+00:48:04 - Cómo Acceder a WordPress
+
+3- INSTALAR NUEVO TEMA
+00:50:02 - Instalar Nuevo Tema
+00:52:49 - Cómo Borrar Un Tema
+
+4- INSTALAR PLUGINS
+00:53:28 - Instalar Plugins
+00:54:34 - Plugins que Usaremos
+
+5- CREAR PÁGINA DE INICIO
+00:57:36 - Crear Página de Inicio
+00:59:17 - Definir Favicon
+00:59:58 - Descargar Imágenes de Muestra
+01:02:12 - Personalizar Barra Superior
+01:02:44 - Configurar Iconos Sociales Barra Superior
+01:07:55 - Lista de Deseos
+01:08:40 - Instalar Plugin WooCommerce
+01:16:36 - Crear tus Primeros Productos
+01:37:33 - Conseguir Imágenes Gratuitas de Calidad para tu Web
+01:42:26 - Editar Imágenes para la Web
+02:05:12 - Insertar Logotipo de la Tienda
+02:07:54 - Configurar Menú Principal
+02:29:54 - Diapositivas Página de Inicio
+03:03:22 - Establecer Página de Inicio como Página de Portada
+03:06:30 - Colocar Diapositivas en la Página de Inicio
+03:12:08 - Añadir Contenido a la Página de Inicio
+03:23:13 - Apartados Moda Masculina, Femenina y Complementos
+03:35:02 - Color Fondo Secciones
+03:35:32 - Divisor de Sección
+03:40:22 - Cuenta Atrás Últimas Ofertas
+03:34:35 - ShortCode Mostrar Productos en Oferta Página Inicio (ShortCode WooCommerce)
+03:56:00 - Vídeo de Fondo en Sección 
+03:58:18 - Texto Animado Vídeo Pasarela
+04:05:45 - Título Síguenos en Instagram
+04:15:03 - Imágenes Instagram en Página de Inicio
+04:24:40 - Apartado Novedades en el Blog
+04:38:14 - Mostrar Entradas Blog en Página Inicio
+04:48:37 - Animar los Contenidos de la Página de Inicio
+
+6- CREAR RESTO DE PÁGINAS
+05:00:15 - Crear Resto de Páginas
+05:07:35 - Convertir el Menú Principal en un Menú Sticky
+05:18:27 - Diseñar Página de Quienes Somos
+05:37:26 - Diseñar Página del Blog
+05:37:42 - Hacer que la Página del Blog Muestre las Entradas
+05:45:35 - Activar los Comentarios en el Blog
+05:49:21 - Diseñar Página de Preguntas Frecuentes
+05:53:19 - Diseñar Página de Contacto
+     06:04:47 - Crear Cuentas de Correo Electrónico Corporativas
+     06:17:42 - Crear Formulario de Contacto
+06:35:51 - Crear Formulario Newsletter Recibir Ofertas
+06:41:01 - Widget Valoraciones Recientes
+06:43:00 - Activar Valoraciones Productos
+06:47:36 - Widget FaceBook Pie Página
+06:52:00 - Editar Copyright Pie Página
+06:57:57 - Política Privacidad, Cookies y Aviso Legal
+
+7- CONFIGURAR TIENDA ONLINE
+07:04:41 - Configurar Tienda Online
+07:04:54 - Recomendar Productos en la Tienda: Upsell
+07:09:40 - Recomendar Productos en el Carrito: CrossSell
+07:13:02 - Poner Nota de Compra a Productos
+07:15:59 - Diapositivas Página Tienda
+07:29:46 - Activar Botón de Filtrar Productos en Página de Tienda
+07:36:13 - Tipos de Productos
+     07:36:28 - Producto Simple
+     07:41:17 - Producto Variable
+     07:57:04 - Producto Agrupado
+     08:06:05 - Producto Virtual
+     08:09:20 - Producto Virtual Descargable
+     08:13:08 - Producto de Afiliado
+08:17:50 - Impuestos
+     08:18:50 - Esquema Impuestos en España, Europa y Resto Mundo
+     08:32:15 - Clases de Impuestos
+          08:32:28 - Impuesto Estándar o General
+          08:41:33 - Impuesto Reducido
+          08:44:41 - Impuesto Super Reducido
+          08:46:34 - Impuesto Productos y Servicios Digitales
+08:52:52 - Envíos
+     09:06:27 - Clases de Envío
+09:14:17 - Métodos de Pago
+09:22:05 - Cupones de Descuento
+09:25:06 - Pagos Sin Distracciones
+09:26:53 - Configurar Emails que se Envían al Comprar
+09:35:49 - Gestionar los Pedidos
+09:38:19 - Informes de Ventas
+09:39:53 - Portal Personal de tu Cliente
+     09:41:10 - Poner Publicidad y Promociones en el Portal del Cliente
+
+8- OPTIMIZAR WEB PARA DISPOSITIVOS MÓVILES
+09:45:42 - Optimizar Web Para Dispositivos Móviles
+09:45:57 - Optimizar Diapositivas
+09:57:28 - Optimizar Páginas
+10:02:31 - Fondo Alternativo a Vídeos en Móviles
+
+9- POTENCIAR LAS VENTAS
+10:04:36 - Potenciar las Ventas
+10:07:31 - Notificador de Ventas en Vivo
+10:18:41 - Cuenta Atrás para los Productos en Oferta
+10:23:41 - Aviso Pocas Unidades en Stock
+10:26:25 - Prueba Social
+
+10- ACTIVAR COBROS CON TARJETA DE CRÉDITO Ó DÉBITO
+10:36:18 - Activar Cobros con Tarjeta de Crédito ó Débito 
+     10:36:40 - Tarjeta (Stripe)
+     10:37:50 - PayU (Latinoamérica: Pagos con Tarjeta y en efectivo en Establecimientos)
+     10:39:22 - Paypal (Latinoametica y Resto Mundo)
+10:41:26 - Cursos Imprescindibles Diseño Web
+10:42:53 - CURSO ACTIVAR COBROS CON TARJETA y Resto de Métodos de Pago
+
+RECURSOS ÚTILES
+10:44:20 - Suscribirse a Nuestra Newsletter
+10:45:07 - Cómo Obtener Ayuda
+10:45:23 - Recursos Útiles para Realizar el Tutorial
+10:47:30 - Novedades y Actualizaciones del Tutorial
+10:48:05 - Preguntas Frecuentes Tutorial
+10:48:16 - Dudas Adicionales Tutorial
+
+10:49:04 - Despedida

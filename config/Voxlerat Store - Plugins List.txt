@@ -1,0 +1,24 @@
+LISTADO DE PLUGINS USADOS EN ESTE TUTORIAL (Voxelart Online Shop)
+Ocean Extra ( OceanWP )
+WooCommerce ( Automattic )
+TI WooCommerce Wishlist Plugin ( TemplateInvaders )
+Smart Slider 3 ( Nextend )
+Elementor Page Builder ( Elementor.com )
+Premium Addons for Elementor ( Leap13 )
+– Premium Título
+– Premium Banner
+– Premium Cuenta atrás
+– Premium Texto llamativo
+– Premium Cabecera dual
+Instagram Feed ( Smash Balloon )
+– Premium Blog
+myStickymenu ( Premio )
+WP Mail SMTP by WPForms ( WPForms )
+Contact Form by WPForms – Drag & Drop Form Builder for WordPress ( WPForms )
+WooCommerce Variation Swatches ( Emran Ahmed )
+Beeketing for WooCommerce (Beeketing)
+
+-- MIGRATION --
+All-in-One WP Migration
+All-in-One WP Migration File Import Extention
+Updraft Plust 

@@ -1,0 +1,30 @@
+# https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/
+
+# Having bookmarked this immensely useful tip a while ago, the two-liner above :) can be now done in one line:
+
+#  To remove ALL containers:
+# docker rm -f $(docker ps -a -q)
+
+# And similar for all images:
+# docker rmi $(docker images -q)
+
+# REMOVE ALL, for images use above one
+# docker system prune --volumes
+
+# WARNING! This will remove:          TO START FROM SCRATH!
+# - all stopped containers
+# - all networks not used by at least one container
+# - all volumes not used by at least one container
+# - all dangling images
+# - all build cache
+# Are you sure you want to continue? [y/N] y
+
+# To stop all running containers use the docker container stop command followed by a list of all containers IDs.
+# docker container stop $(docker container ls -aq)
+
+
+Have you changed the passwords since you first tried running the containers? 
+docker-compose does extra work to preserve volumes between runs (thus preserving the database); 
+you may want to try 
+docker-compose rm -v
+to delete everything and try starting it up again.

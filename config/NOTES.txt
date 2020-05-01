@@ -1,0 +1,41 @@
+# --------------------------------------------------------------------------------------------------------
+# STEPS FROM UTECHPIA and That white Linux guy
+# --------------------------------------------------------------------------------------------------------
+# 1. Create VM Instance using 'Wordpress certified by Bitnami and Automattic' image.
+# Details:
+# a) F1-Micro instance on 'us-east1' zone (make sure it is free)
+# b) 10 GB SSD?, na... 10 GB SPD, hopefully swapfile will be enough
+# c) Allow HTTP and HTTPS Traffic
+# 2. Assign static IP on GPC
+# 3. Connect domain by creating A and CNAME records on GPC, update custom DNS servers on domain registrar
+# 5. Create SSl cert for domains using bitnami cert script, autorenews automatically
+# 5. IMPORT wordpress site created locally (check on accurate site number)
+# 6. Install Simple SSL plugin (I guess you can deactivatre it and delete it (on its own interface)) - NEDED ?
+# 7. Remove Bitnami footer logo
+# 8. add swapfile
+# --------------------------------------------------------------------------------------------------------
+
+
+# ----------------------------------------------
+# Step 2: INSTALL SWAP
+# ----------------------------------------------
+# $ sudo apt install htop
+# $ sudo fallocate -l 2G /swapfile (set to 1.5GB ???)
+# $ sudo dd if=/dev/zero of=/swapfile bs=1024 count=1536000   (set to 1536000 ???)
+# $ sudo chmod 600 /swapfile
+# $ sudo mkswap /swapfile
+# $ sudo swapon /swapfile
+# $ sudo nano /etc/fstab
+# /swapfile swap swap defaults 0 0
+# -------------------------------------------------
+
+# ////////////////////////////////////////////////////////////////////
+# YOU CAN LOOK FOR HELP ON DEPLOYMENTS IN GPC FU&P-INFO (ACTIVE DEPLOY OF COURSE)
+# /////////////////////////////////////////////////////////////////////
+
+# BASH INTO CONTAINER!
+# docker exec -it container_name /bin/bash
+
+
+# PLUGINS
+# Wordfence
