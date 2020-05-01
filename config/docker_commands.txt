@@ -11,6 +11,10 @@
 # REMOVE ALL, for images use above one
 # docker system prune --volumes
 
+# REMOVE LOCAL VOLUMES (to make sure all is wiped-out)
+# rm -r wp_data/
+# rm -r db_data/
+
 # WARNING! This will remove:          TO START FROM SCRATH!
 # - all stopped containers
 # - all networks not used by at least one container
